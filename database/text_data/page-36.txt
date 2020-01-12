@@ -1,0 +1,48 @@
+Selection : LOCATION , DUE DATE
+Agent Status (Active/Inactive): Both
+From:  100,01/12/2019.
+To:      100,31/12/2019.
+ORDER BY AM,SM
+STATE LIFE INSURANCE CORPORATION OF PAKISTAN
+AM's AND SM's WISE 'UN-PAID' POLICIES FOR THE PERIOD 01/12/2019 TO 31/12/2019
+REPORT WILL BE HELPFUL TO IMPROVE THEIR PERSISTENCY
+LEVEL: 030-AREA MANAGER  FOR POLICY STATUS(s): Active
+FROM AGENT: 40 TO AGENT: 40
+AM 
+Code
+SM 
+Code
+SO 
+Code
+SR
+Code
+Policy
+ No
+Policy Holder/
+Address
+40
+713807
+Issue Date
+Risk Date
+Next Due
+M
+TB
+TM
+Premium
+Total:
+ 871,956
+Page          
+:
+Userid        
+:
+ReportID    
+:
+Date Time  
+:
+37
+SLILASPRD
+SLIC_107
+27/11/2019 12:38:02
+Sum
+Assured
+Status
